@@ -40,5 +40,5 @@ Sistem ini dilatih dan diuji menggunakan dataset ulasan Pantai Bensam dengan rin
 
 ### 1. Clone Repositori
 ```bash
-git clone [https://github.com/USERNAME_ANDA/NAMA_REPOSITORI.git](https://github.com/USERNAME_ANDA/NAMA_REPOSITORI.git)
+git clone https://github.com/iniokta/Analisis_Sentimen_Pengunjung_Wisata_PantaiBensam.git
 cd NAMA_REPOSITORI
